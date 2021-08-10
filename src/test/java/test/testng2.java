@@ -67,6 +67,7 @@ public class testng2 extends Base{
 //	@AfterMethod
 //	public void test1()
 //	{
+	system.out.println("done");
 //		driver.navigate().to("https://www.flipkart.com/");
 //	}
   //  @AfterClass
